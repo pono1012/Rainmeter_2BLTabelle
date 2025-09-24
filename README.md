@@ -1,5 +1,6 @@
 # 2. Bundesliga Tabelle (Rainmeter Skin)
 <img width="359" height="398" alt="image" src="https://github.com/user-attachments/assets/9f6b0dc8-3eaf-4a51-8148-baf0f2286146" />
+
 Ein Rainmeter-Skin, der die **aktuelle Tabelle der 2. Bundesliga** anzeigt – inklusive Vereinslogos, Punkten, Torverhältnis und Tordifferenz.  
 Die Daten werden live von [OpenLigaDB](https://www.openligadb.de) geladen und automatisch an die aktuelle Saison angepasst.  
 

@@ -1,5 +1,5 @@
 # 2. Bundesliga Tabelle (Rainmeter Skin)
-
+<img width="359" height="398" alt="image" src="https://github.com/user-attachments/assets/9f6b0dc8-3eaf-4a51-8148-baf0f2286146" />
 Ein Rainmeter-Skin, der die **aktuelle Tabelle der 2. Bundesliga** anzeigt – inklusive Vereinslogos, Punkten, Torverhältnis und Tordifferenz.  
 Die Daten werden live von [OpenLigaDB](https://www.openligadb.de) geladen und automatisch an die aktuelle Saison angepasst.  
 
@@ -39,10 +39,6 @@ Standardmäßig fragt der Skin **alle 5 Minuten (300 000 ms)** neue Daten ab.
 - Nach dem ersten Laden siehst du deshalb **erst nach bis zu 5 Minuten** die Tabelle.  
 
 ➡️ Wer schnellere Aktualisierungen möchte, kann in der `.ini`-Datei anpassen:  
-
-<img width="359" height="398" alt="image" src="https://github.com/user-attachments/assets/9f6b0dc8-3eaf-4a51-8148-baf0f2286146" />
-
-
 ```ini
 [Rainmeter]
 Update=300000   ; 5 Minuten = 300000 ms

@@ -43,3 +43,6 @@ Standardmäßig fragt der Skin **alle 5 Minuten (300 000 ms)** neue Daten ab.
 ```ini
 [Rainmeter]
 Update=300000   ; 5 Minuten = 300000 ms
+
+<img width="359" height="398" alt="image" src="https://github.com/user-attachments/assets/fb56895e-4842-4e80-a450-668fe7fe5a88" />
+
